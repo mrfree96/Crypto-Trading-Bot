@@ -1,0 +1,2 @@
+"api_key => 'YOUR_API_KEY'" you should delete this line and put your api_key
+"api_secret => 'YOUR_SECRET_KEY'" you should delete this line put your secret_key
