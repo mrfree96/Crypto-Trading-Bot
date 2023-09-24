@@ -1,6 +1,7 @@
 # Crypto Trading Bot with Binance API
 
 Welcome to the Crypto Trading Bot project! This bot utilizes the Binance API to automate cryptocurrency trading based on a basic algorithm and strategy.
+You can extend this bot with your algorithms or/and can add also RSI and other indicators if you want.
 
 ## Table of Contents
 
